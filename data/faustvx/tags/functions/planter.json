@@ -6,6 +6,11 @@
     "faustvx:birch_planter",
     "faustvx:jungle_planter",
     "faustvx:acacia_planter",
-    "faustvx:dark_oak_planter"
+    "faustvx:dark_oak_planter",
+    "faustvx:cactus_planter",
+    "faustvx:wheat_planter",
+    "faustvx:potato_planter",
+    "faustvx:carrot_planter",
+    "faustvx:sugar_cane_planter"
   ]
 }
