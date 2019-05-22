@@ -1,2 +1,0 @@
-execute as @s[nbt={Item:{id:"minecraft:wheat_seeds"}}] at @s if block ~ ~-.75 ~ minecraft:farmland[moisture=7] run tag @s add plantSapling
-execute as @s[nbt={Item:{id:"minecraft:wheat_seeds"}},tag=plantSapling] at @s run setblock ~ ~.25 ~ minecraft:wheat

@@ -1,2 +1,0 @@
-execute as @s[nbt={Item:{id:"minecraft:sugar_cane"}}] at @s if block ~ ~-.75 ~ #faustvx:sugar_cane_plantable run function faustvx:sugar_cane_check_water
-execute as @s[nbt={Item:{id:"minecraft:sugar_cane"}},tag=plantSapling] at @s run setblock ~ ~.25 ~ minecraft:sugar_cane

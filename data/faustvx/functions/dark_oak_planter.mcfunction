@@ -1,2 +1,0 @@
-execute as @s[nbt={Item:{id:"minecraft:dark_oak_sapling"}}] at @s if block ~ ~-.75 ~ #minecraft:dirt_like run tag @s add plantSapling
-execute as @s[nbt={Item:{id:"minecraft:dark_oak_sapling"}},tag=plantSapling] at @s run setblock ~ ~.25 ~ minecraft:dark_oak_sapling
