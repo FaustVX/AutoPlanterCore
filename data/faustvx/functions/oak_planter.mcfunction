@@ -1,0 +1,2 @@
+execute as @s[nbt={Item:{id:"minecraft:oak_sapling"}}] run tag @s add plantSapling
+execute as @s[nbt={Item:{id:"minecraft:oak_sapling"}},tag=plantSapling] at @s run setblock ~ ~ ~ minecraft:oak_sapling

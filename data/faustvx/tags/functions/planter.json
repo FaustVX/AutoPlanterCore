@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "faustvx:oak_planter",
+    "faustvx:spruce_planter",
+    "faustvx:birch_planter",
+    "faustvx:jungle_planter",
+    "faustvx:acacia_planter",
+    "faustvx:dark_oak_planter"
+  ]
+}
