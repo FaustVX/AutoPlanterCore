@@ -1,1 +1,6 @@
-{"pack":{"pack_format":4,"description":"Auto Planter Core"}}
+{
+  "pack":{
+    "pack_format":6,
+    "description":"Auto Planter Core"
+  }
+}
